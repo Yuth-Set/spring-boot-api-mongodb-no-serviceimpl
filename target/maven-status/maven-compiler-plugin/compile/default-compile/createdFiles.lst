@@ -1,0 +1,5 @@
+com\springboot\microservices\MicroservicesApplication.class
+com\springboot\microservices\model\Product.class
+com\springboot\microservices\repository\ProductRepository.class
+com\springboot\microservices\controller\ProductController.class
+com\springboot\microservices\model\Product$ProductBuilder.class
